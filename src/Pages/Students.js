@@ -93,7 +93,7 @@ export function Students(){
                 <h3 >Age</h3>
                 <h3 >Course</h3>
                 <h3 >Batch</h3>
-                <h3 ></h3>
+      
             </div>
             <div className="list">
             { StudentList?.map( (item, index) => (
