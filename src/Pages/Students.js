@@ -43,7 +43,7 @@ export function Students(){
                    st.batch =Sbatch;
                }
             
-             } );
+             } ,{});
            setPage(true);
            setEdit(false);
            setSage('');
